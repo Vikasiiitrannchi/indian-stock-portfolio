@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+yfinance
+pydantic
+pandas
+python-multipart
